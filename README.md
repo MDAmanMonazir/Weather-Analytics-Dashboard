@@ -8,7 +8,7 @@ A comprehensive data visualization project that tracks and analyzes real-time we
 This project focuses on transforming raw meteorological data into actionable insights. By connecting directly to live APIs, the dashboard provides a dynamic view of weather conditions, historical trends, and predictive analytics for various geographical locations.
 
 ## 🛠️ Technologies Used
-* **Data Source:** [WeatherAPI.com](https://weatherapi.com/) (Real-time & Forecast data)
+* **Data Source:** [WeatherAPI.com](Free Weather API - WeatherAPI.com https://share.google/90V7zeIK0BigDDUys) (Real-time & Forecast data)
 * **Visualization:** Power BI Desktop
 * **Data Transformation:** Power Query (M Language)
 * **Analytics:** DAX (Data Analysis Expressions)
